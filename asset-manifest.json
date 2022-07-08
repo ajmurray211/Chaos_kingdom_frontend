@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chaos_kingdom_frontend/static/css/main.4bc6da4f.css",
+    "main.js": "/Chaos_kingdom_frontend/static/js/main.7b75d6e7.js",
+    "static/js/787.c518f434.chunk.js": "/Chaos_kingdom_frontend/static/js/787.c518f434.chunk.js",
+    "index.html": "/Chaos_kingdom_frontend/index.html",
+    "main.4bc6da4f.css.map": "/Chaos_kingdom_frontend/static/css/main.4bc6da4f.css.map",
+    "main.7b75d6e7.js.map": "/Chaos_kingdom_frontend/static/js/main.7b75d6e7.js.map",
+    "787.c518f434.chunk.js.map": "/Chaos_kingdom_frontend/static/js/787.c518f434.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bc6da4f.css",
+    "static/js/main.7b75d6e7.js"
+  ]
+}
