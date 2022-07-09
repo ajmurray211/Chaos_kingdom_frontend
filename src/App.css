@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  color: wheat;
 }
 
 html{
@@ -16,9 +17,18 @@ img {
 a{
   font-size: 55px;
   text-decoration: none;
-  color: white;
+  color: wheat;
 }
 
 a:hover{
   color: grey;
+}
+
+.about{
+  display: flex;
+  color: wheat;
+}
+
+p{
+  font-size: 2vw;
 }
