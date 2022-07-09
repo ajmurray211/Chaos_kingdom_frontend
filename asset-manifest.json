@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Chaos_kingdom_frontend/static/css/main.f71beb9f.css",
-    "main.js": "/Chaos_kingdom_frontend/static/js/main.a9432e77.js",
+    "main.js": "/Chaos_kingdom_frontend/static/js/main.97b4ca9d.js",
     "static/js/787.c518f434.chunk.js": "/Chaos_kingdom_frontend/static/js/787.c518f434.chunk.js",
     "index.html": "/Chaos_kingdom_frontend/index.html",
     "main.f71beb9f.css.map": "/Chaos_kingdom_frontend/static/css/main.f71beb9f.css.map",
-    "main.a9432e77.js.map": "/Chaos_kingdom_frontend/static/js/main.a9432e77.js.map",
+    "main.97b4ca9d.js.map": "/Chaos_kingdom_frontend/static/js/main.97b4ca9d.js.map",
     "787.c518f434.chunk.js.map": "/Chaos_kingdom_frontend/static/js/787.c518f434.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f71beb9f.css",
-    "static/js/main.a9432e77.js"
+    "static/js/main.97b4ca9d.js"
   ]
 }
