@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Chaos_kingdom_frontend/static/css/main.4bc6da4f.css",
-    "main.js": "/Chaos_kingdom_frontend/static/js/main.aa7cb9e2.js",
+    "main.css": "/Chaos_kingdom_frontend/static/css/main.f71beb9f.css",
+    "main.js": "/Chaos_kingdom_frontend/static/js/main.a9432e77.js",
     "static/js/787.c518f434.chunk.js": "/Chaos_kingdom_frontend/static/js/787.c518f434.chunk.js",
     "index.html": "/Chaos_kingdom_frontend/index.html",
-    "main.4bc6da4f.css.map": "/Chaos_kingdom_frontend/static/css/main.4bc6da4f.css.map",
-    "main.aa7cb9e2.js.map": "/Chaos_kingdom_frontend/static/js/main.aa7cb9e2.js.map",
+    "main.f71beb9f.css.map": "/Chaos_kingdom_frontend/static/css/main.f71beb9f.css.map",
+    "main.a9432e77.js.map": "/Chaos_kingdom_frontend/static/js/main.a9432e77.js.map",
     "787.c518f434.chunk.js.map": "/Chaos_kingdom_frontend/static/js/787.c518f434.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bc6da4f.css",
-    "static/js/main.aa7cb9e2.js"
+    "static/css/main.f71beb9f.css",
+    "static/js/main.a9432e77.js"
   ]
 }
