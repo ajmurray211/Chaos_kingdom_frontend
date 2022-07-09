@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   color: wheat;
+  margin: 0 auto;
 }
 
 html{
@@ -8,6 +9,7 @@ html{
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  margin: 3vw;
 }
 
 img {
@@ -27,8 +29,16 @@ a:hover{
 .about{
   display: flex;
   color: wheat;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  margin: 0 auto;
 }
 
 p{
-  font-size: 2vw;
+  font-size: 25px;
+}
+
+.about img {
+  height: 400px;
+  width: 200px;
 }
